@@ -1,0 +1,9 @@
+CreateDesktopShortcut: No
+CreateQuickLaunchShortcut: No
+InstallDir: /opt/ccs/bios_5_42_02_10
+InstallMode: Console
+InstallType: Typical
+LaunchApplication: No
+ProgramFolderName:  5.42.02.10
+SelectedComponents: Default Component
+ViewReadme: No
